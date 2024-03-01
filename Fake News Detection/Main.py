@@ -1,0 +1,13 @@
+import streamlit as st
+st.header('')
+st.header('')
+st.header('')
+st.header('')
+st.header("\n\n\n\nNewzifier: Your savior from misleading news!")
+st.header('')
+st.header('')
+st.write("Introducing Newzifier: Your Daily Source of Unmissable News! Uncover the Hidden Truth in Headlines with Our Sarcasm-Detection Superpower. !")
+st.write('')
+st.write("Stay Informed, Stay Amused, and Stay Ahead with the Ultimate News Companion.")
+st.write('')
+st.subheader("It's Not Just News; It's Newzifier!")
